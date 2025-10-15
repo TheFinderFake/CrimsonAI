@@ -1,0 +1,9 @@
+fx_version 'cerulean'
+game 'gta5'
+
+client_scripts {
+    'config.lua',
+    'pedControlFlags.lua',
+    'client/PedRelationships.lua',
+    'client/client.lua'
+}
